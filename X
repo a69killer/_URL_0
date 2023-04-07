@@ -1,0 +1,6 @@
+local t = "i";
+local x = "c";
+local e = "k";
+local Text = "d"..t..x..e;
+wait(); nil
+print(Text)
